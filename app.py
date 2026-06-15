@@ -17,7 +17,7 @@ OVERDUE_WARNING_DAYS = 0   # Vade geçince direkt gecikmiş sayılır
 USERS = {
     # Şifreleri ilk giriş sonrası değiştirmek istersen aşağıdaki değerleri güncelleriz.
     # Kullanıcı adı: sifre
-    "idil": "1234",
+    "admin": "1234",
     "kalfa": "1234",
 }
 
