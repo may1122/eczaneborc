@@ -13,7 +13,7 @@ DEFAULT_DEBT_LIMIT = 3000
 OVERDUE_WARNING_DAYS = 0
 
 USERS = {
-    "yonetici": {"password": "1234", "role": "admin"},
+    "admin": {"password": "1234", "role": "admin"},
     "kalfa": {"password": "1234", "role": "staff"},
 }
 
